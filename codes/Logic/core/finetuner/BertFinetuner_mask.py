@@ -252,7 +252,7 @@ class BERTFinetuner:
         #self.model.save_model(model_name)
         self.tokenizer.save_pretrained(model_name)
 
-        token = "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"
+        token = "######"
         login(token)
 
         repo_url = create_repo(repo_id=model_name, private=True, exist_ok=True)
