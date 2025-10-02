@@ -1,6 +1,6 @@
 # IMDb-IR: Information Retrieval System for IMDb
 
-<img src="./IMDB_Logo.jpeg" alt="IMDb Logo" width="100%" height="auto" />
+<img src="./codes/IMDB_Logo.jpeg" alt="IMDb Logo" width="100%" height="auto" />
 
 An end-to-end educational IR system built for the Modern Information Retrieval course at Sharif University of Technology (Instructor: Dr. Mahdieh Soleymani Baghshah). The project covers crawling IMDb, preprocessing, indexing, multiple retrieval models, ranking, spell correction, snippets, evaluation, link analysis (HITS), word embeddings, classification, clustering, and a Streamlit UI.
 
